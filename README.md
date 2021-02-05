@@ -1,3 +1,3 @@
 # css-shapes
 
-https://practice-full-stack.github.io/css-shapes/
+https://practice-front-end.github.io/css-shapes/
